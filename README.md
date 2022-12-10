@@ -3,7 +3,25 @@
 
 ***Conteúdo do Curso:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-com-bas)
+* [ ] [Introdução.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-com-bas) :construction:
+* [ ] [Definições e Conceitos.](https://github.com/Devsgeeknerd/mod-def-con-log-par-pro-com-bas) :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
+* [ ] []() :construction:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
