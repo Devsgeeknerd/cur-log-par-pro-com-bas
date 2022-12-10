@@ -11,7 +11,7 @@
 * [ ] [Estruturas de Decisão.](https://github.com/Devsgeeknerd/mod-est-dec-log-par-pro-com-bas) :construction:
 * [ ] [Estruturas de Repetição.](https://github.com/Devsgeeknerd/mod-est-rep-log-par-pro-com-bas) :construction:
 * [ ] [Hora de Praticar 1.](https://github.com/Devsgeeknerd/mod-hor-pra-1-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Portugol.](https://github.com/Devsgeeknerd/mod-por-log-par-pro-com-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
