@@ -5,7 +5,7 @@
 
 * [ ] [Introdução.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-com-bas) :construction:
 * [ ] [Definições e Conceitos.](https://github.com/Devsgeeknerd/mod-def-con-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Estruturas e Fases de um Algoritmos.](https://github.com/Devsgeeknerd/mod-est-fas-alg-log-par-pro-com-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
