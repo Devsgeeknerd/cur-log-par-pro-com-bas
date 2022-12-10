@@ -12,7 +12,7 @@
 * [ ] [Estruturas de Repetição.](https://github.com/Devsgeeknerd/mod-est-rep-log-par-pro-com-bas) :construction:
 * [ ] [Hora de Praticar 1.](https://github.com/Devsgeeknerd/mod-hor-pra-1-log-par-pro-com-bas) :construction:
 * [ ] [Portugol.](https://github.com/Devsgeeknerd/mod-por-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Linguagem C.](https://github.com/Devsgeeknerd/mod-lin-c-log-par-pro-com-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
