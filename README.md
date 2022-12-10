@@ -8,7 +8,7 @@
 * [ ] [Estruturas e Fases de um Algoritmos.](https://github.com/Devsgeeknerd/mod-est-fas-alg-log-par-pro-com-bas) :construction:
 * [ ] [Variáveis, Constantes e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-var-con-tip-dad-log-par-pro-com-bas) :construction:
 * [ ] [Operadores Aritméticos, Relacionais e Lógicos.](https://github.com/Devsgeeknerd/mod-ope-ari-rel-log-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Estruturas de Decisão.](https://github.com/Devsgeeknerd/mod-est-dec-log-par-pro-com-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
