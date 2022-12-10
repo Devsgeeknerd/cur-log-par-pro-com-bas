@@ -6,7 +6,7 @@
 * [ ] [Introdução.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-com-bas) :construction:
 * [ ] [Definições e Conceitos.](https://github.com/Devsgeeknerd/mod-def-con-log-par-pro-com-bas) :construction:
 * [ ] [Estruturas e Fases de um Algoritmos.](https://github.com/Devsgeeknerd/mod-est-fas-alg-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Variáveis, Constantes e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-var-con-tip-dad-log-par-pro-com-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
