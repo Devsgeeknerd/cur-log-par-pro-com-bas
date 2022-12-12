@@ -23,6 +23,13 @@
 * [ ] [Hora de Praticar 2.](https://github.com/Devsgeeknerd/mod-hor-pra-2-log-par-pro-com-bas) :construction:
 * [ ] [Hora de Praticar 3.](https://github.com/Devsgeeknerd/mod-hor-pra-3-log-par-pro-com-bas) :construction:
 
+Antes mesmo de começarmos a desenvolver, precisamos desenvolver em nós uma capacidade analítica para resolução de problemas mais apurada, de maneira que conseguimos com muito menos esforço que o habitual resolver problemas mais complexos.
+
+Esta capacidade analítica é comumente chamada de lógica para programação quando é voltada para computação e algoritmos.
+
+<!-- Informações -->
+## Informações
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
