@@ -14,7 +14,7 @@
 * [ ] [Portugol.](https://github.com/Devsgeeknerd/mod-por-log-par-pro-com-bas) :construction:
 * [ ] [Linguagem C.](https://github.com/Devsgeeknerd/mod-lin-c-log-par-pro-com-bas) :construction:
 * [ ] [Estrutura Básica de um Software em C.](https://github.com/Devsgeeknerd/mod-est-bas-sof-c-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Variáveis e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-var-tip-dad-log-par-pro-com-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
