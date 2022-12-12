@@ -35,6 +35,20 @@ Transmitir todo o fluxo de processamento de dados que o nosso cérebro consegue 
 
 Dai vem a necessidade de se conseguir apurar este raciocínio analítico e, consequentemente, desenvolver bem a lógica aplicada em linguagens de programação.
 
+## Conhecimentos Adquiridos
+
+* Organizar melhor o fluxo de pensamentos através do desenvolvimento de sua capacidade analítica;
+* Compreender o que são algoritmos;
+* Compreender o conceito de **"variável"** e para que estas podem ser utilizadas;
+* Aplicar operadores aritméticos, relacionais e lógicos de maneira correta e adequada;
+* Aprender a desenvolver algoritmos que podem tomar decisões e/ou executar repetidamente determinadas tarefas através da análise de informações externas com as estruturas de tomada de decisão e de repetição;
+* Desenvolver algoritmos utilizando a ferramenta inspirada em ***gamefication*** chamada **Scratch**;
+* Desenvolver algoritmos em um nível mais alto utilizando o **Portugol**;
+* Ter os primeiros contatos com uma linguagem de programação "de verdade": o **C**;
+* Entenderá conceitos de entrada e saída de dados do **C**, conceitos estes utilizados por quase todas as outras linguagens;
+* Compreender algoritmos um pouco mais complexos, como o algoritmo de ordenação de dados chamado ***Bubble Sort***;
+* Implementar conceitos matemáticos com linguagens de programação, como as famosas sequências de **Fibonacci**.
+
 <!-- Informações -->
 ## Informações
 
