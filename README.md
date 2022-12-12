@@ -27,6 +27,14 @@ Antes mesmo de começarmos a desenvolver, precisamos desenvolver em nós uma cap
 
 Esta capacidade analítica é comumente chamada de lógica para programação quando é voltada para computação e algoritmos.
 
+Na verdade, todos nós ja contamos com habilidade de raciocínio para resolução de problemas de menor e maior grau.
+
+Porém, o grande desafio reside em repassar o nosso pensamento para um computador através de uma linguagem de programação, ja que um computador na verdade não é um ser pensante se excluirmos o ramo da inteligência artificial: ele simplesmente executa porcões de código que foram digitadas por um ser humano.
+
+Transmitir todo o fluxo de processamento de dados que o nosso cérebro consegue desempenhar em um curtíssimo espaço de tempo para uma máquina que é muito mais limitada que a nossa mente sem uma perda grande de performance é um grande desafio analítico.
+
+Dai vem a necessidade de se conseguir apurar este raciocínio analítico e, consequentemente, desenvolver bem a lógica aplicada em linguagens de programação.
+
 <!-- Informações -->
 ## Informações
 
