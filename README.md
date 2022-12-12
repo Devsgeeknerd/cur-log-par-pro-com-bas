@@ -21,7 +21,7 @@
 * [ ] [Estruturas de Repetição.](https://github.com/Devsgeeknerd/mod-est-rep-log-par-pro-com-bas) :construction:
 * [ ] [Estrutura de Dados — Vetores ou Arrays.](https://github.com/Devsgeeknerd/mod-est-dad-vet-arr-log-par-pro-com-bas) :construction:
 * [ ] [Hora de Praticar 2.](https://github.com/Devsgeeknerd/mod-hor-pra-2-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Hora de Praticar 3.](https://github.com/Devsgeeknerd/mod-hor-pra-3-log-par-pro-com-bas) :construction:
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
