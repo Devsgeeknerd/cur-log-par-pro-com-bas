@@ -15,7 +15,7 @@
 * [ ] [Linguagem C.](https://github.com/Devsgeeknerd/mod-lin-c-log-par-pro-com-bas) :construction:
 * [ ] [Estrutura Básica de um Software em C.](https://github.com/Devsgeeknerd/mod-est-bas-sof-c-log-par-pro-com-bas) :construction:
 * [ ] [Variáveis e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-var-tip-dad-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Trabalhando Com Entrada e Saida de Dados.](https://github.com/Devsgeeknerd/mod-tra-ent-sai-dad-log-par-pro-com-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
