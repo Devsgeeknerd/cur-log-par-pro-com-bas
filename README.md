@@ -17,7 +17,7 @@
 * [ ] [Variáveis e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-var-tip-dad-log-par-pro-com-bas) :construction:
 * [ ] [Trabalhando Com Entrada e Saida de Dados.](https://github.com/Devsgeeknerd/mod-tra-ent-sai-dad-log-par-pro-com-bas) :construction:
 * [ ] [Operadores Aritméticos, Relacionais e Lógicos.](https://github.com/Devsgeeknerd/mod-ope-ari-rel-log-log-par-pro-com-bas) :construction:
-* [ ] []() :construction:
+* [ ] [Estruturas de Decisão.](https://github.com/Devsgeeknerd/mod-est-dec-log-par-pro-bas) :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
 * [ ] []() :construction:
