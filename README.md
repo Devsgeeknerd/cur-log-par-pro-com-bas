@@ -38,7 +38,7 @@ Dai vem a necessidade de se conseguir apurar este raciocínio analítico e, cons
 
 * Organizar melhor o fluxo de pensamentos através do desenvolvimento de sua capacidade analítica;
 * Compreender o que são algoritmos;
-* Compreender o conceito de **"variável"** e para que estas podem ser utilizadas;
+* Compreender o conceito de **“variável”** e para que estas podem ser utilizadas;
 * Aplicar operadores aritméticos, relacionais e lógicos de maneira correta e adequada;
 * Aprender a desenvolver algoritmos que podem tomar decisões e/ou executar repetidamente determinadas tarefas através da análise de informações externas com as estruturas de tomada de decisão e de repetição;
 * Desenvolver algoritmos utilizando a ferramenta inspirada em ***gamefication*** chamada **Scratch**;
