@@ -49,7 +49,7 @@ Dai vem a necessidade de se conseguir apurar este raciocínio analítico e, cons
 * Implementar conceitos matemáticos com linguagens de programação, como as famosas sequências de **Fibonacci**.
 
 <!-- Informações -->
-## Informações
+## &#8505; Informações
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-log-par-pro-com-bas&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
