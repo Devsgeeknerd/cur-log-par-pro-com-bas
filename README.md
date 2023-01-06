@@ -5,7 +5,7 @@
 
 * [x] [Introdução.](https://github.com/Devsgeeknerd/mod-int-log-par-pro-com-bas)
 * [x] [Estruturas e Fases de um Algoritmos.](https://github.com/Devsgeeknerd/mod-est-fas-alg-log-par-pro-com-bas)
-* [ ] [Variáveis, Constantes e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-var-con-tip-dad-log-par-pro-com-bas) :construction:
+* [x] [Variáveis, Constantes e Tipos de Dados.](https://github.com/Devsgeeknerd/mod-var-con-tip-dad-log-par-pro-com-bas)
 * [ ] [Operadores Aritméticos, Relacionais e Lógicos.](https://github.com/Devsgeeknerd/mod-ope-ari-rel-log-log-par-pro-com-bas) :construction:
 * [ ] [Estruturas de Decisão.](https://github.com/Devsgeeknerd/mod-est-dec-log-par-pro-com-bas) :construction:
 * [ ] [Estruturas de Repetição.](https://github.com/Devsgeeknerd/mod-est-rep-log-par-pro-com-bas) :construction:
